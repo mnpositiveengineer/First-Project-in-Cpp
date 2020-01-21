@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1579627353 source:c:\users\micha³\desktop\programowanie\c++\projekt gry\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<windows.h>
+	<conio.h>
+
